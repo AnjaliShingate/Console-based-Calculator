@@ -1,1 +1,1 @@
-# Console-based-Calculator
+I develop a console-based calculator that includes basic Arithmetic Operations like addition, substraction, multiplication and division along with additional functionalities such as Scientific Calculations, Currency Exchange Rate and Unit Conversions.
